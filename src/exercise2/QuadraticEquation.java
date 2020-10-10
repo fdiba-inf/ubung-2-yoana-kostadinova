@@ -18,7 +18,7 @@ public class QuadraticEquation {
       int D = b*b-4*a*c;
 
 
-              if (D>=0); {
+              if (D>=0) {
               double wurzelD = Math.sqrt(D);
               double x1 = (-b+wurzelD) / 2.0*a; 
               double x2 = (-b-wurzelD) / 2.0*a;
@@ -26,7 +26,27 @@ public class QuadraticEquation {
               System.out.println (" x2 = " + x2);
               }  
               else {
-              System.out.println ("Imaginary balues");
+              System.out.println ("Imaginary v
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              
+              alues");
               }
     }
   
